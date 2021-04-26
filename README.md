@@ -1,1 +1,1 @@
-Mini projects for learning
+Mini projects in javascript and react for learning
